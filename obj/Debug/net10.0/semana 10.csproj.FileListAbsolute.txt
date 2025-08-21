@@ -1,0 +1,14 @@
+C:\Users\Paul\csharp\semana 10\bin\Debug\net10.0\semana 10.exe
+C:\Users\Paul\csharp\semana 10\bin\Debug\net10.0\semana 10.deps.json
+C:\Users\Paul\csharp\semana 10\bin\Debug\net10.0\semana 10.runtimeconfig.json
+C:\Users\Paul\csharp\semana 10\bin\Debug\net10.0\semana 10.dll
+C:\Users\Paul\csharp\semana 10\bin\Debug\net10.0\semana 10.pdb
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.AssemblyInfoInputs.cache
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.AssemblyInfo.cs
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.csproj.CoreCompileInputs.cache
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.dll
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\refint\semana 10.dll
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.pdb
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\semana 10.genruntimeconfig.cache
+C:\Users\Paul\csharp\semana 10\obj\Debug\net10.0\ref\semana 10.dll
